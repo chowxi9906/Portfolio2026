@@ -459,7 +459,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('../Assets/CX_Bannel_Image_2.png');
+  background-image: url('./Assets/CX_Bannel_Image_2.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
