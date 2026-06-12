@@ -2,7 +2,7 @@
     TABLET DEVICES
 *********************************/
 
-@media screen and (max-width: 1438px) {
+@media screen and (max-width: 1428px) {
 
     /* NAVIGATION */
 
@@ -85,7 +85,7 @@
 
 
 /*********************************
-    SMALL TABLETS
+    TABLETS
 *********************************/
 
 @media screen and (max-width: 1160px) {
@@ -111,10 +111,21 @@
         height: 65px;
         font-size: 2rem;
     }
-
 }
 
 
+/*********************************
+    TABLETS
+*********************************/
+
+@media screen and (max-width: 816px) {
+/* PORTFOLIO */
+
+    .grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    
 /*********************************
     MOBILE DEVICES
 *********************************/
